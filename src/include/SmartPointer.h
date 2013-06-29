@@ -30,6 +30,5 @@ public:
 } /* namespace ShootSpacer */
 
 
-
 #endif /* SMARTPOINTER_H_ */
 
